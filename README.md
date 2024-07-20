@@ -1,14 +1,14 @@
-# @diskszk/astro-blog-template
+# @diskszk/blog-template-cli
 
 ## Installation
 
 ```sh
-npm install @diskszk/blog-template
-yarn add @diskszk/blog-template
-pnpm add @diskszk/blog-template
+pnpm add @diskszk/blog-template-cli
 ```
 
-## Quick Start
+## CLI Usage
 
 ```sh
+pnpm run blog-template-cli <outDirectory> <filename>
 ```
+
